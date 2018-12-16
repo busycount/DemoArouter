@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.busycount.mylibrary2">
+
+    <application>
+        <activity android:name=".T2Activity" />
+    </application>
+
+</manifest>
